@@ -1,0 +1,9 @@
+Lucas;22
+Leo;24
+Maria;85
+Jonathan;23
+Julia;23
+Vanderlei;53
+Joelson;12
+Bart;23
+Salom�o;16
